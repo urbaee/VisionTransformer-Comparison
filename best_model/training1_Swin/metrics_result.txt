@@ -1,0 +1,35 @@
+===== METRICS RESULT (training1_Swin) =====
+Per-class metrics:
+Class: cat
+  Accuracy : 1.0000
+  Precision: 0.9973
+  Recall   : 1.0000
+  F1-Score : 0.9987
+Class: dog
+  Accuracy : 0.9946
+  Precision: 1.0000
+  Recall   : 0.9946
+  F1-Score : 0.9973
+Class: elephant
+  Accuracy : 0.9790
+  Precision: 0.9419
+  Recall   : 0.9790
+  F1-Score : 0.9601
+Class: horse
+  Accuracy : 0.9464
+  Precision: 0.9888
+  Recall   : 0.9464
+  F1-Score : 0.9671
+Class: lion
+  Accuracy : 0.9705
+  Precision: 0.9653
+  Recall   : 0.9705
+  F1-Score : 0.9679
+
+Averaged metrics:
+Overall Accuracy (global)       : 0.9781
+Mean Per-Class Accuracy         : 0.9781
+Macro Precision (avg per class) : 0.9787
+Macro Recall (avg per class)    : 0.9781
+Macro F1-Score (avg per class)  : 0.9782
+=======================================

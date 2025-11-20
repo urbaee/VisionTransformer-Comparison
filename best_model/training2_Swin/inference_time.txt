@@ -1,0 +1,6 @@
+===== INFERENCE TIME (training2_Swin) =====
+Total test images          : 1874
+Total inference time       : 7565.82 ms
+Average time per image     : 4.0373 ms/image
+Throughput                 : 247.69 images/second
+=======================================

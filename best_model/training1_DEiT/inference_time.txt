@@ -1,0 +1,6 @@
+===== INFERENCE TIME (training1_DEiT) =====
+Total test images          : 1874
+Total inference time       : 6327.15 ms
+Average time per image     : 3.3763 ms/image
+Throughput                 : 296.18 images/second
+=======================================
