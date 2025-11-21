@@ -1,0 +1,6 @@
+===== INFERENCE TIME (training1_EVA-02) =====
+Total test images          : 1874
+Total inference time       : 11384.25 ms
+Average time per image     : 6.0748 ms/image
+Throughput                 : 164.61 images/second
+=======================================
