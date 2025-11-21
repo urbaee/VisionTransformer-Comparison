@@ -1,0 +1,12 @@
+===== INFERENCE BENCHMARK RESULT =====
+Run name           : training1_Swin
+Model name         : swin_tiny_patch4_window7_224
+Checkpoint         : best_model/training1_Swin/best_model.pth
+Hardware           : GPU: NVIDIA GeForce RTX 3060 Laptop GPU (6.00 GB VRAM)
+
+Total images       : 1874
+Total time (ms)    : 872.41
+Avg time (ms/img)  : 0.4655
+Std dev (ms/img)   : 0.5357
+Throughput (img/s) : 2148.07
+======================================

@@ -1,0 +1,12 @@
+===== INFERENCE BENCHMARK RESULT =====
+Run name           : training2_DEiT
+Model name         : deit_small_patch16_224
+Checkpoint         : best_model/training2_DEiT/best_model.pth
+Hardware           : GPU: NVIDIA GeForce RTX 3060 Laptop GPU (6.00 GB VRAM)
+
+Total images       : 1874
+Total time (ms)    : 245.75
+Avg time (ms/img)  : 0.1311
+Std dev (ms/img)   : 0.1288
+Throughput (img/s) : 7625.78
+======================================

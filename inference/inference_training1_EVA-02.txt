@@ -1,0 +1,12 @@
+===== INFERENCE BENCHMARK RESULT =====
+Run name           : training1_EVA-02
+Model name         : eva02_small_patch14_224
+Checkpoint         : best_model/training1_EVA-02/best_model.pth
+Hardware           : GPU: NVIDIA GeForce RTX 3060 Laptop GPU (6.00 GB VRAM)
+
+Total images       : 1874
+Total time (ms)    : 863.26
+Avg time (ms/img)  : 0.4607
+Std dev (ms/img)   : 0.2722
+Throughput (img/s) : 2170.83
+======================================
