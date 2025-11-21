@@ -5,9 +5,8 @@ Perbandingan tiga arsitektur Vision Transformer (DeiT Small, Swin Transformer Ti
 ---
 
 ## 👤 Author
-**Nama:** Rahmat Aldi  
+**Nama:** Rahmat Aldi Nasda
 **NIM:** 122140077  
-
 ---
 
 ## 📌 Deskripsi Proyek
